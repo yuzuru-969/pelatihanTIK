@@ -1,0 +1,14 @@
+body {
+  background-color: #F08080; /* Warna karang muda */
+font-family: "Times New Roman", Times, serif; /* Jenis huruf yang bersih dan mudah dibaca */
+color: #6A5ACD; /* Warna teks utama (Biru keabu-abuan) */
+}
+|
+.kartu-profil img {
+  width: 300px;
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding: 20px;
+  background-color; white
+  border-radius: 15px; /* Membuat sudut menjadi melengkung */
+box-shadow: 0 4px 8px rgba(0,0,0,0,1): /* efek bayangan */
+}
